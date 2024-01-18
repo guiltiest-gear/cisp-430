@@ -1,0 +1,100 @@
+december,ariana grande,100
+in my head,ariana grande,99
+nasa,ariana grande,98
+thinking bout you,ariana grande,97
+girlfriend,avril lavigne,96
+boyfriend,big time rush,95
+te deseo lo mejor,bad bunny,94
+hostage,billie eilish,93
+ice cream,blackpink,92
+blood sweat & tears,bts,91
+boy in luv,bts,90
+dope,bts,79
+dimple,bts,77
+mic drop,bts,78
+second grade,bts,80
+war of hormone,bts,76
+hold on,chord overstreet,75
+we belong,dove cameron,74
+boys will be boys,dua lipa,73
+man up,hailee steinfeld,70
+ko ko bop,exo,71
+lotto,exo,72
+butterflies,fiji blue,55
+he could be the one,hannah montana,54
+eight,iu,52
+celebrity,iu,50
+poker face,lady gaga,51
+love me like you,little mix,53
+play date,melanie martinez,60
+dollhouse,melanie martinez,59
+mr potato head,melanie martinez,58
+crybaby,melanie martinez,57
+soap,melanie martinez,56
+die alone,mia sayoko,40
+we can't stop,miley cyrus,61
+hot n cold,katy perry,62
+angel,nct 127,67
+lemonande,nct 127,66
+another world,nct 127,65
+chain,nct 127,69
+dreaming,nct 127,68
+heartbreaker,nct 127,63
+mad city,nct 127,64
+once again,nct 127,49
+paradise,nct 127,48
+punch,nct 127,47
+running 2 u,nct 127,46
+simon says,nct 127,45
+summer127,nct 127,44
+switch,nct 127,43
+wakey wakey,nct 127,42
+welcome to my playground,nct 127,41
+beautiful time,nct dream,81
+go,nct dream,83
+boss,nct u,82
+seventh sense,nct u,84
+deja vu,olivia rodrigo,86
+mona lisa,sabrina carpenter,87
+paris,sabrina carpenter,89
+prfct,sabrina carpenter,85
+sue me,sabrina carpenter,88
+long flight,taeyong,2
+rose,taeyong,1
+twenty two,taylor swift,3
+love story,taylor swift,5
+we are never getting back together,taylor swift,4
+welcome to new york,taylor swift,7
+mr brightside,the killers,8
+sweater weather,the neighborhood,10
+take a hint,victorious,9
+shut up and dance,victorious,19
+la boyz,victorious,18
+ghost,wolf,17
+high waisted jeans,wolf,16
+hoops,wolf,15
+magsafe,wolf,13
+styrofoam cup,wolf,14
+villain,wolf,11
+breathe,lauv,12
+hoedown throwdown,hannah montana,20
+serendipity,bts,25
+fake love,bts,24
+the truth untold,bts,29
+airplane pt. 2,bts,28
+anpanman,bts,27
+answer,bts,26
+go go,bts,21
+im fine,bts,22
+magic shop,bts,23
+mikrokosmos,bts,35
+make it right,bts,30
+home,bts,32
+jamais vu,bts,33
+dionysus,bts,36
+one in a million,astro,37
+all night,astro,38
+sns,astro,31
+so what,pink,34
+roar,katy perry,39
+firework,katy perry,6

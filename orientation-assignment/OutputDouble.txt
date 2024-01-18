@@ -1,0 +1,220 @@
+****************************************
+The number of steps for selection sort = 19900
+****************************************
+Title: rose Singer: taeyong ChartPosition: 1
+Title: long flight Singer: taeyong ChartPosition: 2
+Title: twenty two Singer: taylor swift ChartPosition: 3
+Title: we are never getting back together Singer: taylor swift ChartPosition: 4
+Title: love story Singer: taylor swift ChartPosition: 5
+Title: firework Singer: katy perry ChartPosition: 6
+Title: welcome to new york Singer: taylor swift ChartPosition: 7
+Title: mr brightside Singer: the killers ChartPosition: 8
+Title: take a hint Singer: victorious ChartPosition: 9
+Title: sweater weather Singer: the neighborhood ChartPosition: 10
+Title: villain Singer: wolf ChartPosition: 11
+Title: breathe Singer: lauv ChartPosition: 12
+Title: magsafe Singer: wolf ChartPosition: 13
+Title: styrofoam cup Singer: wolf ChartPosition: 14
+Title: hoops Singer: wolf ChartPosition: 15
+Title: high waisted jeans Singer: wolf ChartPosition: 16
+Title: ghost Singer: wolf ChartPosition: 17
+Title: la boyz Singer: victorious ChartPosition: 18
+Title: shut up and dance Singer: victorious ChartPosition: 19
+Title: hoedown throwdown Singer: hannah montana ChartPosition: 20
+Title: go go Singer: bts ChartPosition: 21
+Title: im fine Singer: bts ChartPosition: 22
+Title: magic shop Singer: bts ChartPosition: 23
+Title: fake love Singer: bts ChartPosition: 24
+Title: serendipity Singer: bts ChartPosition: 25
+Title: answer Singer: bts ChartPosition: 26
+Title: anpanman Singer: bts ChartPosition: 27
+Title: airplane pt. 2 Singer: bts ChartPosition: 28
+Title: the truth untold Singer: bts ChartPosition: 29
+Title: make it right Singer: bts ChartPosition: 30
+Title: sns Singer: astro ChartPosition: 31
+Title: home Singer: bts ChartPosition: 32
+Title: jamais vu Singer: bts ChartPosition: 33
+Title: so what Singer: pink ChartPosition: 34
+Title: mikrokosmos Singer: bts ChartPosition: 35
+Title: dionysus Singer: bts ChartPosition: 36
+Title: one in a million Singer: astro ChartPosition: 37
+Title: all night Singer: astro ChartPosition: 38
+Title: roar Singer: katy perry ChartPosition: 39
+Title: die alone Singer: mia sayoko ChartPosition: 40
+Title: welcome to my playground Singer: nct 127 ChartPosition: 41
+Title: wakey wakey Singer: nct 127 ChartPosition: 42
+Title: switch Singer: nct 127 ChartPosition: 43
+Title: summer127 Singer: nct 127 ChartPosition: 44
+Title: simon says Singer: nct 127 ChartPosition: 45
+Title: running 2 u Singer: nct 127 ChartPosition: 46
+Title: punch Singer: nct 127 ChartPosition: 47
+Title: paradise Singer: nct 127 ChartPosition: 48
+Title: once again Singer: nct 127 ChartPosition: 49
+Title: celebrity Singer: iu ChartPosition: 50
+Title: poker face Singer: lady gaga ChartPosition: 51
+Title: eight Singer: iu ChartPosition: 52
+Title: love me like you Singer: little mix ChartPosition: 53
+Title: he could be the one Singer: hannah montana ChartPosition: 54
+Title: butterflies Singer: fiji blue ChartPosition: 55
+Title: soap Singer: melanie martinez ChartPosition: 56
+Title: crybaby Singer: melanie martinez ChartPosition: 57
+Title: mr potato head Singer: melanie martinez ChartPosition: 58
+Title: dollhouse Singer: melanie martinez ChartPosition: 59
+Title: play date Singer: melanie martinez ChartPosition: 60
+Title: we can't stop Singer: miley cyrus ChartPosition: 61
+Title: hot n cold Singer: katy perry ChartPosition: 62
+Title: heartbreaker Singer: nct 127 ChartPosition: 63
+Title: mad city Singer: nct 127 ChartPosition: 64
+Title: another world Singer: nct 127 ChartPosition: 65
+Title: lemonande Singer: nct 127 ChartPosition: 66
+Title: angel Singer: nct 127 ChartPosition: 67
+Title: dreaming Singer: nct 127 ChartPosition: 68
+Title: chain Singer: nct 127 ChartPosition: 69
+Title: man up Singer: hailee steinfeld ChartPosition: 70
+Title: ko ko bop Singer: exo ChartPosition: 71
+Title: lotto Singer: exo ChartPosition: 72
+Title: boys will be boys Singer: dua lipa ChartPosition: 73
+Title: we belong Singer: dove cameron ChartPosition: 74
+Title: hold on Singer: chord overstreet ChartPosition: 75
+Title: war of hormone Singer: bts ChartPosition: 76
+Title: dimple Singer: bts ChartPosition: 77
+Title: mic drop Singer: bts ChartPosition: 78
+Title: dope Singer: bts ChartPosition: 79
+Title: second grade Singer: bts ChartPosition: 80
+Title: beautiful time Singer: nct dream ChartPosition: 81
+Title: boss Singer: nct u ChartPosition: 82
+Title: go Singer: nct dream ChartPosition: 83
+Title: seventh sense Singer: nct u ChartPosition: 84
+Title: prfct Singer: sabrina carpenter ChartPosition: 85
+Title: deja vu Singer: olivia rodrigo ChartPosition: 86
+Title: mona lisa Singer: sabrina carpenter ChartPosition: 87
+Title: sue me Singer: sabrina carpenter ChartPosition: 88
+Title: paris Singer: sabrina carpenter ChartPosition: 89
+Title: boy in luv Singer: bts ChartPosition: 90
+Title: blood sweat & tears Singer: bts ChartPosition: 91
+Title: ice cream Singer: blackpink ChartPosition: 92
+Title: hostage Singer: billie eilish ChartPosition: 93
+Title: te deseo lo mejor Singer: bad bunny ChartPosition: 94
+Title: boyfriend Singer: big time rush ChartPosition: 95
+Title: girlfriend Singer: avril lavigne ChartPosition: 96
+Title: thinking bout you Singer: ariana grande ChartPosition: 97
+Title: nasa Singer: ariana grande ChartPosition: 98
+Title: in my head Singer: ariana grande ChartPosition: 99
+Title: december Singer: ariana grande ChartPosition: 100
+Title: if i die young Singer: glee ChartPosition: 101
+Title: live while we're young Singer: glee ChartPosition: 102
+Title: leave it all to shine Singer:  victorious ChartPosition: 103
+Title: josslyn Singer:  olivia o'brien ChartPosition: 104
+Title: dynamite Singer: bts ChartPosition: 105
+Title: butter Singer: bts ChartPosition: 106
+Title: uh huh Singer: julia michaels ChartPosition: 107
+Title: issues Singer: julia michaels ChartPosition: 108
+Title: afterlife Singer: hailee steinfeld ChartPosition: 109
+Title: no love Singer: olivia o'brien ChartPosition: 110
+Title: best friend's brother Singer: victorious ChartPosition: 111
+Title: love myself Singer: hailee steinfeld ChartPosition: 112
+Title: most girls Singer: hailee steinfeld ChartPosition: 113
+Title: capital letters Singer: hailee steinfeld ChartPosition: 114
+Title: make it in america Singer: victorious ChartPosition: 115
+Title: finally falling Singer: victorious ChartPosition: 116
+Title: heres 2 us Singer: victorious ChartPosition: 117
+Title: make it shine Singer: victorious ChartPosition: 118
+Title: beggin on your knees Singer: victorious ChartPosition: 119
+Title: greased lightning Singer: glee ChartPosition: 120
+Title: it's time Singer: glee ChartPosition: 121
+Title: no scrubs Singer: glee ChartPosition: 122
+Title: teenage dream Singer: glee ChartPosition: 123
+Title: raise your glass Singer: glee ChartPosition: 124
+Title: stereo hearts Singer: glee ChartPosition: 125
+Title: tongue tied Singer: glee ChartPosition: 126
+Title: without you Singer: glee ChartPosition: 127
+Title: we are young Singer: glee ChartPosition: 128
+Title: superman Singer: glee ChartPosition: 129
+Title: hurts so good Singer: astrid s ChartPosition: 130
+Title: i think i'm in love Singer: kat dahlia ChartPosition: 131
+Title: such a boy Singer: astrid s ChartPosition: 132
+Title: sleepover Singer: hayley kiyoko ChartPosition: 133
+Title: sorry Singer: halsey ChartPosition: 134
+Title: so good Singer: zara larsson ChartPosition: 135
+Title: young god Singer: halsey ChartPosition: 136
+Title: be okay Singer: glee ChartPosition: 137
+Title: daydream believer Singer: glee ChartPosition: 138
+Title: extraordinary merry christmas Singer: glee ChartPosition: 139
+Title: habits Singer: tove lo ChartPosition: 140
+Title: what i need Singer: hayley kiyoko ChartPosition: 141
+Title: lust for life Singer: lana del rey ChartPosition: 142
+Title: same Singer: sung hoon ChartPosition: 143
+Title: root beer float Singer: olivia o'brien ChartPosition: 144
+Title: winter dreams Singer: kelly clarkson ChartPosition: 145
+Title: you're the reason Singer: victorious ChartPosition: 146
+Title: clarity Singer: glee ChartPosition: 147
+Title: cough syrup Singer: glee ChartPosition: 148
+Title: everybody wants to rule the world Singer: glee ChartPosition: 149
+Title: beauty and a beat Singer: justin bieber ChartPosition: 150
+Title: ttylxox Singer: bella thorne ChartPosition: 151
+Title: call it whatever Singer: bella thorne ChartPosition: 152
+Title: stay Singer: justin bieber ChartPosition: 153
+Title: hate u love u Singer: olivia o'brien ChartPosition: 154
+Title: symphony Singer: zara larsson ChartPosition: 155
+Title: beautiful girls Singer: sean kingston ChartPosition: 156
+Title: i hate the homecoming queen Singer: emily osment ChartPosition: 157
+Title: slow down Singer: selena gomez ChartPosition: 158
+Title: eenie meenie Singer: sean kingston ChartPosition: 159
+Title: hey soul sister Singer: glee ChartPosition: 160
+Title: last friday night Singer: glee ChartPosition: 161
+Title: marry you Singer: glee ChartPosition: 162
+Title: on our way Singer: glee ChartPosition: 163
+Title: smooth criminal Singer: glee ChartPosition: 164
+Title: tik tok Singer: glee ChartPosition: 165
+Title: all too well Singer: taylor swift ChartPosition: 166
+Title: red Singer: taylor swift ChartPosition: 167
+Title: some nights Singer: glee ChartPosition: 168
+Title: loser like me Singer: glee ChartPosition: 169
+Title: walls could talk Singer: halsey ChartPosition: 170
+Title: atlantis Singer: bridgit mendler ChartPosition: 171
+Title: hurricane Singer: bridgit mendler ChartPosition: 172
+Title: ready or not Singer: bridgit mendler ChartPosition: 173
+Title: breathe Singer: astrid s ChartPosition: 174
+Title: dive Singer: bridgit mendler ChartPosition: 175
+Title: girls like girls Singer: hayley kiyoko ChartPosition: 176
+Title: does she know Singer: astrid s ChartPosition: 177
+Title: critical beauty Singer: pentagon ChartPosition: 178
+Title: curious Singer: hayley kiyoko ChartPosition: 179
+Title: boys Singer: charli xcx ChartPosition: 180
+Title: wildest dreams Singer: taylor swift ChartPosition: 181
+Title: mistletoe Singer: justin bieber ChartPosition: 182
+Title: sober Singer: selena gomez ChartPosition: 183
+Title: all day Singer: cody simpson ChartPosition: 184
+Title: tell me something i don't know Singer: selena gomez ChartPosition: 185
+Title: wolves Singer: selena gomez ChartPosition: 186
+Title: love you to love me Singer: selena gomez ChartPosition: 187
+Title: who says Singer: selena gomez ChartPosition: 188
+Title: nothing new Singer: taylor swift ChartPosition: 189
+Title: talk Singer: daya ChartPosition: 190
+Title: shine Singer: pentagon ChartPosition: 191
+Title: mood Singer: marteen ChartPosition: 192
+Title: lush life Singer: zara larsson ChartPosition: 193
+Title: i love you Singer: exid ChartPosition: 194
+Title: hide away Singer: daya ChartPosition: 195
+Title: empty Singer: olivia obrien ChartPosition: 196
+Title: dna Singer: lia marie johnson ChartPosition: 197
+Title: colors Singer: halsey ChartPosition: 198
+Title: after the afterparty Singer: charli xcx ChartPosition: 199
+Title: freak the freak out Singer: victorious ChartPosition: 200
+Printing ********* TOP TEN *****************
+Title: rose Singer: taeyong ChartPosition: 1
+Title: long flight Singer: taeyong ChartPosition: 2
+Title: twenty two Singer: taylor swift ChartPosition: 3
+Title: we are never getting back together Singer: taylor swift ChartPosition: 4
+Title: love story Singer: taylor swift ChartPosition: 5
+Title: firework Singer: katy perry ChartPosition: 6
+Title: welcome to new york Singer: taylor swift ChartPosition: 7
+Title: mr brightside Singer: the killers ChartPosition: 8
+Title: take a hint Singer: victorious ChartPosition: 9
+Title: sweater weather Singer: the neighborhood ChartPosition: 10
+
+Which title are you searching ?dna
+Song found: Title: dna Singer: lia marie johnson ChartPosition: 197
+****************************************
+The number of steps for linear search = 197
+****************************************

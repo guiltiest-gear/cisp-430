@@ -1,0 +1,120 @@
+****************************************
+The number of steps for selection sort = 4950
+****************************************
+Title: rose Singer: taeyong ChartPosition: 1
+Title: long flight Singer: taeyong ChartPosition: 2
+Title: twenty two Singer: taylor swift ChartPosition: 3
+Title: we are never getting back together Singer: taylor swift ChartPosition: 4
+Title: love story Singer: taylor swift ChartPosition: 5
+Title: firework Singer: katy perry ChartPosition: 6
+Title: welcome to new york Singer: taylor swift ChartPosition: 7
+Title: mr brightside Singer: the killers ChartPosition: 8
+Title: take a hint Singer: victorious ChartPosition: 9
+Title: sweater weather Singer: the neighborhood ChartPosition: 10
+Title: villain Singer: wolf ChartPosition: 11
+Title: breathe Singer: lauv ChartPosition: 12
+Title: magsafe Singer: wolf ChartPosition: 13
+Title: styrofoam cup Singer: wolf ChartPosition: 14
+Title: hoops Singer: wolf ChartPosition: 15
+Title: high waisted jeans Singer: wolf ChartPosition: 16
+Title: ghost Singer: wolf ChartPosition: 17
+Title: la boyz Singer: victorious ChartPosition: 18
+Title: shut up and dance Singer: victorious ChartPosition: 19
+Title: hoedown throwdown Singer: hannah montana ChartPosition: 20
+Title: go go Singer: bts ChartPosition: 21
+Title: im fine Singer: bts ChartPosition: 22
+Title: magic shop Singer: bts ChartPosition: 23
+Title: fake love Singer: bts ChartPosition: 24
+Title: serendipity Singer: bts ChartPosition: 25
+Title: answer Singer: bts ChartPosition: 26
+Title: anpanman Singer: bts ChartPosition: 27
+Title: airplane pt. 2 Singer: bts ChartPosition: 28
+Title: the truth untold Singer: bts ChartPosition: 29
+Title: make it right Singer: bts ChartPosition: 30
+Title: sns Singer: astro ChartPosition: 31
+Title: home Singer: bts ChartPosition: 32
+Title: jamais vu Singer: bts ChartPosition: 33
+Title: so what Singer: pink ChartPosition: 34
+Title: mikrokosmos Singer: bts ChartPosition: 35
+Title: dionysus Singer: bts ChartPosition: 36
+Title: one in a million Singer: astro ChartPosition: 37
+Title: all night Singer: astro ChartPosition: 38
+Title: roar Singer: katy perry ChartPosition: 39
+Title: die alone Singer: mia sayoko ChartPosition: 40
+Title: welcome to my playground Singer: nct 127 ChartPosition: 41
+Title: wakey wakey Singer: nct 127 ChartPosition: 42
+Title: switch Singer: nct 127 ChartPosition: 43
+Title: summer127 Singer: nct 127 ChartPosition: 44
+Title: simon says Singer: nct 127 ChartPosition: 45
+Title: running 2 u Singer: nct 127 ChartPosition: 46
+Title: punch Singer: nct 127 ChartPosition: 47
+Title: paradise Singer: nct 127 ChartPosition: 48
+Title: once again Singer: nct 127 ChartPosition: 49
+Title: celebrity Singer: iu ChartPosition: 50
+Title: poker face Singer: lady gaga ChartPosition: 51
+Title: eight Singer: iu ChartPosition: 52
+Title: love me like you Singer: little mix ChartPosition: 53
+Title: he could be the one Singer: hannah montana ChartPosition: 54
+Title: butterflies Singer: fiji blue ChartPosition: 55
+Title: soap Singer: melanie martinez ChartPosition: 56
+Title: crybaby Singer: melanie martinez ChartPosition: 57
+Title: mr potato head Singer: melanie martinez ChartPosition: 58
+Title: dollhouse Singer: melanie martinez ChartPosition: 59
+Title: play date Singer: melanie martinez ChartPosition: 60
+Title: we can't stop Singer: miley cyrus ChartPosition: 61
+Title: hot n cold Singer: katy perry ChartPosition: 62
+Title: heartbreaker Singer: nct 127 ChartPosition: 63
+Title: mad city Singer: nct 127 ChartPosition: 64
+Title: another world Singer: nct 127 ChartPosition: 65
+Title: lemonande Singer: nct 127 ChartPosition: 66
+Title: angel Singer: nct 127 ChartPosition: 67
+Title: dreaming Singer: nct 127 ChartPosition: 68
+Title: chain Singer: nct 127 ChartPosition: 69
+Title: man up Singer: hailee steinfeld ChartPosition: 70
+Title: ko ko bop Singer: exo ChartPosition: 71
+Title: lotto Singer: exo ChartPosition: 72
+Title: boys will be boys Singer: dua lipa ChartPosition: 73
+Title: we belong Singer: dove cameron ChartPosition: 74
+Title: hold on Singer: chord overstreet ChartPosition: 75
+Title: war of hormone Singer: bts ChartPosition: 76
+Title: dimple Singer: bts ChartPosition: 77
+Title: mic drop Singer: bts ChartPosition: 78
+Title: dope Singer: bts ChartPosition: 79
+Title: second grade Singer: bts ChartPosition: 80
+Title: beautiful time Singer: nct dream ChartPosition: 81
+Title: boss Singer: nct u ChartPosition: 82
+Title: go Singer: nct dream ChartPosition: 83
+Title: seventh sense Singer: nct u ChartPosition: 84
+Title: prfct Singer: sabrina carpenter ChartPosition: 85
+Title: deja vu Singer: olivia rodrigo ChartPosition: 86
+Title: mona lisa Singer: sabrina carpenter ChartPosition: 87
+Title: sue me Singer: sabrina carpenter ChartPosition: 88
+Title: paris Singer: sabrina carpenter ChartPosition: 89
+Title: boy in luv Singer: bts ChartPosition: 90
+Title: blood sweat & tears Singer: bts ChartPosition: 91
+Title: ice cream Singer: blackpink ChartPosition: 92
+Title: hostage Singer: billie eilish ChartPosition: 93
+Title: te deseo lo mejor Singer: bad bunny ChartPosition: 94
+Title: boyfriend Singer: big time rush ChartPosition: 95
+Title: girlfriend Singer: avril lavigne ChartPosition: 96
+Title: thinking bout you Singer: ariana grande ChartPosition: 97
+Title: nasa Singer: ariana grande ChartPosition: 98
+Title: in my head Singer: ariana grande ChartPosition: 99
+Title: december Singer: ariana grande ChartPosition: 100
+Printing ********* TOP TEN *****************
+Title: rose Singer: taeyong ChartPosition: 1
+Title: long flight Singer: taeyong ChartPosition: 2
+Title: twenty two Singer: taylor swift ChartPosition: 3
+Title: we are never getting back together Singer: taylor swift ChartPosition: 4
+Title: love story Singer: taylor swift ChartPosition: 5
+Title: firework Singer: katy perry ChartPosition: 6
+Title: welcome to new york Singer: taylor swift ChartPosition: 7
+Title: mr brightside Singer: the killers ChartPosition: 8
+Title: take a hint Singer: victorious ChartPosition: 9
+Title: sweater weather Singer: the neighborhood ChartPosition: 10
+
+Which title are you searching ?ice cream
+Song found: Title: ice cream Singer: blackpink ChartPosition: 92
+****************************************
+The number of steps for linear search = 92
+****************************************

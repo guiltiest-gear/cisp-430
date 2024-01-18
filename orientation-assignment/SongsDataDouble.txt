@@ -1,0 +1,200 @@
+december,ariana grande,100
+in my head,ariana grande,99
+nasa,ariana grande,98
+thinking bout you,ariana grande,97
+girlfriend,avril lavigne,96
+boyfriend,big time rush,95
+te deseo lo mejor,bad bunny,94
+hostage,billie eilish,93
+ice cream,blackpink,92
+blood sweat & tears,bts,91
+boy in luv,bts,90
+dope,bts,79
+dimple,bts,77
+mic drop,bts,78
+second grade,bts,80
+war of hormone,bts,76
+hold on,chord overstreet,75
+we belong,dove cameron,74
+boys will be boys,dua lipa,73
+man up,hailee steinfeld,70
+ko ko bop,exo,71
+lotto,exo,72
+butterflies,fiji blue,55
+he could be the one,hannah montana,54
+eight,iu,52
+celebrity,iu,50
+poker face,lady gaga,51
+love me like you,little mix,53
+play date,melanie martinez,60
+dollhouse,melanie martinez,59
+mr potato head,melanie martinez,58
+crybaby,melanie martinez,57
+soap,melanie martinez,56
+die alone,mia sayoko,40
+we can't stop,miley cyrus,61
+hot n cold,katy perry,62
+angel,nct 127,67
+lemonande,nct 127,66
+another world,nct 127,65
+chain,nct 127,69
+dreaming,nct 127,68
+heartbreaker,nct 127,63
+mad city,nct 127,64
+once again,nct 127,49
+paradise,nct 127,48
+punch,nct 127,47
+running 2 u,nct 127,46
+simon says,nct 127,45
+summer127,nct 127,44
+switch,nct 127,43
+wakey wakey,nct 127,42
+welcome to my playground,nct 127,41
+beautiful time,nct dream,81
+go,nct dream,83
+boss,nct u,82
+seventh sense,nct u,84
+deja vu,olivia rodrigo,86
+mona lisa,sabrina carpenter,87
+paris,sabrina carpenter,89
+prfct,sabrina carpenter,85
+sue me,sabrina carpenter,88
+long flight,taeyong,2
+rose,taeyong,1
+twenty two,taylor swift,3
+love story,taylor swift,5
+we are never getting back together,taylor swift,4
+welcome to new york,taylor swift,7
+mr brightside,the killers,8
+sweater weather,the neighborhood,10
+take a hint,victorious,9
+shut up and dance,victorious,19
+la boyz,victorious,18
+ghost,wolf,17
+high waisted jeans,wolf,16
+hoops,wolf,15
+magsafe,wolf,13
+styrofoam cup,wolf,14
+villain,wolf,11
+breathe,lauv,12
+hoedown throwdown,hannah montana,20
+serendipity,bts,25
+fake love,bts,24
+the truth untold,bts,29
+airplane pt. 2,bts,28
+anpanman,bts,27
+answer,bts,26
+go go,bts,21
+im fine,bts,22
+magic shop,bts,23
+mikrokosmos,bts,35
+make it right,bts,30
+home,bts,32
+jamais vu,bts,33
+dionysus,bts,36
+one in a million,astro,37
+all night,astro,38
+sns,astro,31
+so what,pink,34
+roar,katy perry,39
+firework,katy perry,6
+after the afterparty,charli xcx,199
+colors,halsey,198
+dna,lia marie johnson,197
+empty,olivia obrien,196
+hide away,daya,195
+i love you,exid,194
+lush life,zara larsson,193
+mood,marteen,192
+shine,pentagon,191
+talk,daya,190
+walls could talk,halsey,170
+atlantis,bridgit mendler,171
+ready or not,bridgit mendler,173
+hurricane,bridgit mendler,172
+dive,bridgit mendler,175
+breathe,astrid s,174
+boys,charli xcx,180
+critical beauty,pentagon,178
+curious,hayley kiyoko,179
+does she know,astrid s,177
+girls like girls,hayley kiyoko,176
+habits,tove lo,140
+hurts so good,astrid s,130
+i think i'm in love,kat dahlia,131
+lust for life,lana del rey,142
+root beer float,olivia o'brien,144
+same,sung hoon,143
+sleepover,hayley kiyoko,133
+so good,zara larsson,135
+sorry,halsey,134
+such a boy,astrid s,132
+what i need,hayley kiyoko,141
+winter dreams,kelly clarkson,145
+young god,halsey,136
+you're the reason,victorious,146
+be okay,glee,137
+clarity,glee,147
+cough syrup,glee,148
+daydream believer,glee,138
+everybody wants to rule the world,glee,149
+extraordinary merry christmas,glee,139
+greased lightning,glee,120
+hey soul sister,glee,160
+if i die young,glee,101
+live while we're young,glee,102
+it's time,glee,121
+last friday night,glee,161
+marry you,glee,162
+no scrubs,glee,122
+on our way,glee,163
+teenage dream,glee,123
+tik tok,glee,165
+raise your glass,glee,124
+smooth criminal,glee,164
+stereo hearts,glee,125
+superman,glee,129
+we are young,glee,128
+without you,glee,127
+tongue tied,glee,126
+loser like me,glee,169
+some nights,glee,168
+all too well,taylor swift,166
+red,taylor swift,167
+wildest dreams,taylor swift,181
+nothing new,taylor swift,189
+who says,selena gomez,188
+tell me something i don't know,selena gomez,185
+wolves,selena gomez,186
+love you to love me,selena gomez,187
+mistletoe,justin bieber,182
+all day,cody simpson,184
+sober,selena gomez,183
+beauty and a beat,justin bieber,150
+eenie meenie,sean kingston,159
+beautiful girls,sean kingston,156
+slow down,selena gomez,158
+i hate the homecoming queen,emily osment,157
+ttylxox,bella thorne,151
+stay,justin bieber,153
+call it whatever,bella thorne,152
+hate u love u,olivia o'brien,154
+symphony,zara larsson,155
+no love,olivia o'brien,110
+freak the freak out,victorious,200
+best friend's brother,victorious,111
+beggin on your knees,victorious,119
+make it shine,victorious,118
+make it in america,victorious,115
+heres 2 us,victorious,117
+finally falling,victorious,116
+capital letters,hailee steinfeld,114
+most girls,hailee steinfeld,113
+love myself,hailee steinfeld,112
+afterlife,hailee steinfeld,109
+issues,julia michaels,108
+uh huh,julia michaels,107
+butter,bts,106
+dynamite,bts,105
+josslyn, olivia o'brien,104
+leave it all to shine, victorious,103
