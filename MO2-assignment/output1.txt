@@ -1,0 +1,428 @@
+*************************************
+Selection Sorting By Chart Position Steps = 4950
+*************************************
+Printing Database Sorted By Chart Position 
+Title: rose Singer: taeyong ChartPosition: 1
+Title: long flight Singer: taeyong ChartPosition: 2
+Title: twenty two Singer: taylor swift ChartPosition: 3
+Title: we are never getting back together Singer: taylor swift ChartPosition: 4
+Title: love story Singer: taylor swift ChartPosition: 5
+Title: firework Singer: katy perry ChartPosition: 6
+Title: welcome to new york Singer: taylor swift ChartPosition: 7
+Title: mr brightside Singer: the killers ChartPosition: 8
+Title: take a hint Singer: victorious ChartPosition: 9
+Title: sweater weather Singer: the neighborhood ChartPosition: 10
+Title: villain Singer: wolf ChartPosition: 11
+Title: breathe Singer: lauv ChartPosition: 12
+Title: magsafe Singer: wolf ChartPosition: 13
+Title: styrofoam cup Singer: wolf ChartPosition: 14
+Title: hoops Singer: wolf ChartPosition: 15
+Title: high waisted jeans Singer: wolf ChartPosition: 16
+Title: ghost Singer: wolf ChartPosition: 17
+Title: la boyz Singer: victorious ChartPosition: 18
+Title: shut up and dance Singer: victorious ChartPosition: 19
+Title: hoedown throwdown Singer: hannah montana ChartPosition: 20
+Title: go go Singer: bts ChartPosition: 21
+Title: im fine Singer: bts ChartPosition: 22
+Title: magic shop Singer: bts ChartPosition: 23
+Title: fake love Singer: bts ChartPosition: 24
+Title: serendipity Singer: bts ChartPosition: 25
+Title: answer Singer: bts ChartPosition: 26
+Title: anpanman Singer: bts ChartPosition: 27
+Title: airplane pt. 2 Singer: bts ChartPosition: 28
+Title: the truth untold Singer: bts ChartPosition: 29
+Title: make it right Singer: bts ChartPosition: 30
+Title: sns Singer: astro ChartPosition: 31
+Title: home Singer: bts ChartPosition: 32
+Title: jamais vu Singer: bts ChartPosition: 33
+Title: so what Singer: pink ChartPosition: 34
+Title: mikrokosmos Singer: bts ChartPosition: 35
+Title: dionysus Singer: bts ChartPosition: 36
+Title: one in a million Singer: astro ChartPosition: 37
+Title: all night Singer: astro ChartPosition: 38
+Title: roar Singer: katy perry ChartPosition: 39
+Title: die alone Singer: mia sayoko ChartPosition: 40
+Title: welcome to my playground Singer: nct 127 ChartPosition: 41
+Title: wakey wakey Singer: nct 127 ChartPosition: 42
+Title: switch Singer: nct 127 ChartPosition: 43
+Title: summer127 Singer: nct 127 ChartPosition: 44
+Title: simon says Singer: nct 127 ChartPosition: 45
+Title: running 2 u Singer: nct 127 ChartPosition: 46
+Title: punch Singer: nct 127 ChartPosition: 47
+Title: paradise Singer: nct 127 ChartPosition: 48
+Title: once again Singer: nct 127 ChartPosition: 49
+Title: celebrity Singer: iu ChartPosition: 50
+Title: poker face Singer: lady gaga ChartPosition: 51
+Title: eight Singer: iu ChartPosition: 52
+Title: love me like you Singer: little mix ChartPosition: 53
+Title: he could be the one Singer: hannah montana ChartPosition: 54
+Title: butterflies Singer: fiji blue ChartPosition: 55
+Title: soap Singer: melanie martinez ChartPosition: 56
+Title: crybaby Singer: melanie martinez ChartPosition: 57
+Title: mr potato head Singer: melanie martinez ChartPosition: 58
+Title: dollhouse Singer: melanie martinez ChartPosition: 59
+Title: play date Singer: melanie martinez ChartPosition: 60
+Title: we can't stop Singer: miley cyrus ChartPosition: 61
+Title: hot n cold Singer: katy perry ChartPosition: 62
+Title: heartbreaker Singer: nct 127 ChartPosition: 63
+Title: mad city Singer: nct 127 ChartPosition: 64
+Title: another world Singer: nct 127 ChartPosition: 65
+Title: lemonande Singer: nct 127 ChartPosition: 66
+Title: angel Singer: nct 127 ChartPosition: 67
+Title: dreaming Singer: nct 127 ChartPosition: 68
+Title: chain Singer: nct 127 ChartPosition: 69
+Title: man up Singer: hailee steinfeld ChartPosition: 70
+Title: ko ko bop Singer: exo ChartPosition: 71
+Title: lotto Singer: exo ChartPosition: 72
+Title: boys will be boys Singer: dua lipa ChartPosition: 73
+Title: we belong Singer: dove cameron ChartPosition: 74
+Title: hold on Singer: chord overstreet ChartPosition: 75
+Title: war of hormone Singer: bts ChartPosition: 76
+Title: dimple Singer: bts ChartPosition: 77
+Title: mic drop Singer: bts ChartPosition: 78
+Title: dope Singer: bts ChartPosition: 79
+Title: second grade Singer: bts ChartPosition: 80
+Title: beautiful time Singer: nct dream ChartPosition: 81
+Title: boss Singer: nct u ChartPosition: 82
+Title: go Singer: nct dream ChartPosition: 83
+Title: seventh sense Singer: nct u ChartPosition: 84
+Title: prfct Singer: sabrina carpenter ChartPosition: 85
+Title: deja vu Singer: olivia rodrigo ChartPosition: 86
+Title: mona lisa Singer: sabrina carpenter ChartPosition: 87
+Title: sue me Singer: sabrina carpenter ChartPosition: 88
+Title: paris Singer: sabrina carpenter ChartPosition: 89
+Title: boy in luv Singer: bts ChartPosition: 90
+Title: blood sweat & tears Singer: bts ChartPosition: 91
+Title: ice cream Singer: blackpink ChartPosition: 92
+Title: hostage Singer: billie eilish ChartPosition: 93
+Title: te deseo lo mejor Singer: bad bunny ChartPosition: 94
+Title: boyfriend Singer: big time rush ChartPosition: 95
+Title: girlfriend Singer: avril lavigne ChartPosition: 96
+Title: thinking bout you Singer: ariana grande ChartPosition: 97
+Title: nasa Singer: ariana grande ChartPosition: 98
+Title: in my head Singer: ariana grande ChartPosition: 99
+Title: december Singer: ariana grande ChartPosition: 100
+*************************************
+After push_back, size of Data base  101
+The last song is Title: music is this Singer: BTS ChartPosition: 101
+After pop_back, size of Data base  100
+inserted song at index 6 Title: fifth place Singer: BTS ChartPosition: 5 Number of insert  adjust steps= 95
+Title: rose Singer: taeyong ChartPosition: 1
+Title: long flight Singer: taeyong ChartPosition: 2
+Title: twenty two Singer: taylor swift ChartPosition: 3
+Title: we are never getting back together Singer: taylor swift ChartPosition: 4
+Title: love story Singer: taylor swift ChartPosition: 5
+Title: fifth place Singer: BTS ChartPosition: 5
+Title: firework Singer: katy perry ChartPosition: 6
+Title: welcome to new york Singer: taylor swift ChartPosition: 7
+Title: mr brightside Singer: the killers ChartPosition: 8
+Title: take a hint Singer: victorious ChartPosition: 9
+Title: sweater weather Singer: the neighborhood ChartPosition: 10
+Title: villain Singer: wolf ChartPosition: 11
+Title: breathe Singer: lauv ChartPosition: 12
+Title: magsafe Singer: wolf ChartPosition: 13
+Title: styrofoam cup Singer: wolf ChartPosition: 14
+Title: hoops Singer: wolf ChartPosition: 15
+Title: high waisted jeans Singer: wolf ChartPosition: 16
+Title: ghost Singer: wolf ChartPosition: 17
+Title: la boyz Singer: victorious ChartPosition: 18
+Title: shut up and dance Singer: victorious ChartPosition: 19
+Title: hoedown throwdown Singer: hannah montana ChartPosition: 20
+Title: go go Singer: bts ChartPosition: 21
+Title: im fine Singer: bts ChartPosition: 22
+Title: magic shop Singer: bts ChartPosition: 23
+Title: fake love Singer: bts ChartPosition: 24
+Title: serendipity Singer: bts ChartPosition: 25
+Title: answer Singer: bts ChartPosition: 26
+Title: anpanman Singer: bts ChartPosition: 27
+Title: airplane pt. 2 Singer: bts ChartPosition: 28
+Title: the truth untold Singer: bts ChartPosition: 29
+Title: make it right Singer: bts ChartPosition: 30
+Title: sns Singer: astro ChartPosition: 31
+Title: home Singer: bts ChartPosition: 32
+Title: jamais vu Singer: bts ChartPosition: 33
+Title: so what Singer: pink ChartPosition: 34
+Title: mikrokosmos Singer: bts ChartPosition: 35
+Title: dionysus Singer: bts ChartPosition: 36
+Title: one in a million Singer: astro ChartPosition: 37
+Title: all night Singer: astro ChartPosition: 38
+Title: roar Singer: katy perry ChartPosition: 39
+Title: die alone Singer: mia sayoko ChartPosition: 40
+Title: welcome to my playground Singer: nct 127 ChartPosition: 41
+Title: wakey wakey Singer: nct 127 ChartPosition: 42
+Title: switch Singer: nct 127 ChartPosition: 43
+Title: summer127 Singer: nct 127 ChartPosition: 44
+Title: simon says Singer: nct 127 ChartPosition: 45
+Title: running 2 u Singer: nct 127 ChartPosition: 46
+Title: punch Singer: nct 127 ChartPosition: 47
+Title: paradise Singer: nct 127 ChartPosition: 48
+Title: once again Singer: nct 127 ChartPosition: 49
+Title: celebrity Singer: iu ChartPosition: 50
+Title: poker face Singer: lady gaga ChartPosition: 51
+Title: eight Singer: iu ChartPosition: 52
+Title: love me like you Singer: little mix ChartPosition: 53
+Title: he could be the one Singer: hannah montana ChartPosition: 54
+Title: butterflies Singer: fiji blue ChartPosition: 55
+Title: soap Singer: melanie martinez ChartPosition: 56
+Title: crybaby Singer: melanie martinez ChartPosition: 57
+Title: mr potato head Singer: melanie martinez ChartPosition: 58
+Title: dollhouse Singer: melanie martinez ChartPosition: 59
+Title: play date Singer: melanie martinez ChartPosition: 60
+Title: we can't stop Singer: miley cyrus ChartPosition: 61
+Title: hot n cold Singer: katy perry ChartPosition: 62
+Title: heartbreaker Singer: nct 127 ChartPosition: 63
+Title: mad city Singer: nct 127 ChartPosition: 64
+Title: another world Singer: nct 127 ChartPosition: 65
+Title: lemonande Singer: nct 127 ChartPosition: 66
+Title: angel Singer: nct 127 ChartPosition: 67
+Title: dreaming Singer: nct 127 ChartPosition: 68
+Title: chain Singer: nct 127 ChartPosition: 69
+Title: man up Singer: hailee steinfeld ChartPosition: 70
+Title: ko ko bop Singer: exo ChartPosition: 71
+Title: lotto Singer: exo ChartPosition: 72
+Title: boys will be boys Singer: dua lipa ChartPosition: 73
+Title: we belong Singer: dove cameron ChartPosition: 74
+Title: hold on Singer: chord overstreet ChartPosition: 75
+Title: war of hormone Singer: bts ChartPosition: 76
+Title: dimple Singer: bts ChartPosition: 77
+Title: mic drop Singer: bts ChartPosition: 78
+Title: dope Singer: bts ChartPosition: 79
+Title: second grade Singer: bts ChartPosition: 80
+Title: beautiful time Singer: nct dream ChartPosition: 81
+Title: boss Singer: nct u ChartPosition: 82
+Title: go Singer: nct dream ChartPosition: 83
+Title: seventh sense Singer: nct u ChartPosition: 84
+Title: prfct Singer: sabrina carpenter ChartPosition: 85
+Title: deja vu Singer: olivia rodrigo ChartPosition: 86
+Title: mona lisa Singer: sabrina carpenter ChartPosition: 87
+Title: sue me Singer: sabrina carpenter ChartPosition: 88
+Title: paris Singer: sabrina carpenter ChartPosition: 89
+Title: boy in luv Singer: bts ChartPosition: 90
+Title: blood sweat & tears Singer: bts ChartPosition: 91
+Title: ice cream Singer: blackpink ChartPosition: 92
+Title: hostage Singer: billie eilish ChartPosition: 93
+Title: te deseo lo mejor Singer: bad bunny ChartPosition: 94
+Title: boyfriend Singer: big time rush ChartPosition: 95
+Title: girlfriend Singer: avril lavigne ChartPosition: 96
+Title: thinking bout you Singer: ariana grande ChartPosition: 97
+Title: nasa Singer: ariana grande ChartPosition: 98
+Title: in my head Singer: ariana grande ChartPosition: 99
+Title: december Singer: ariana grande ChartPosition: 100
+Title: rose Singer: taeyong ChartPosition: 1
+Title: long flight Singer: taeyong ChartPosition: 2
+Title: twenty two Singer: taylor swift ChartPosition: 3
+Title: we are never getting back together Singer: taylor swift ChartPosition: 4
+Title: love story Singer: taylor swift ChartPosition: 5
+Title: fifth place Singer: BTS ChartPosition: 6
+Title: firework Singer: katy perry ChartPosition: 7
+Title: welcome to new york Singer: taylor swift ChartPosition: 8
+Title: mr brightside Singer: the killers ChartPosition: 9
+Title: take a hint Singer: victorious ChartPosition: 10
+Title: sweater weather Singer: the neighborhood ChartPosition: 11
+Title: villain Singer: wolf ChartPosition: 12
+Title: breathe Singer: lauv ChartPosition: 13
+Title: magsafe Singer: wolf ChartPosition: 14
+Title: styrofoam cup Singer: wolf ChartPosition: 15
+Title: hoops Singer: wolf ChartPosition: 16
+Title: high waisted jeans Singer: wolf ChartPosition: 17
+Title: ghost Singer: wolf ChartPosition: 18
+Title: la boyz Singer: victorious ChartPosition: 19
+Title: shut up and dance Singer: victorious ChartPosition: 20
+Title: hoedown throwdown Singer: hannah montana ChartPosition: 21
+Title: go go Singer: bts ChartPosition: 22
+Title: im fine Singer: bts ChartPosition: 23
+Title: magic shop Singer: bts ChartPosition: 24
+Title: fake love Singer: bts ChartPosition: 25
+Title: serendipity Singer: bts ChartPosition: 26
+Title: answer Singer: bts ChartPosition: 27
+Title: anpanman Singer: bts ChartPosition: 28
+Title: airplane pt. 2 Singer: bts ChartPosition: 29
+Title: the truth untold Singer: bts ChartPosition: 30
+Title: make it right Singer: bts ChartPosition: 31
+Title: sns Singer: astro ChartPosition: 32
+Title: home Singer: bts ChartPosition: 33
+Title: jamais vu Singer: bts ChartPosition: 34
+Title: so what Singer: pink ChartPosition: 35
+Title: mikrokosmos Singer: bts ChartPosition: 36
+Title: dionysus Singer: bts ChartPosition: 37
+Title: one in a million Singer: astro ChartPosition: 38
+Title: all night Singer: astro ChartPosition: 39
+Title: roar Singer: katy perry ChartPosition: 40
+Title: die alone Singer: mia sayoko ChartPosition: 41
+Title: welcome to my playground Singer: nct 127 ChartPosition: 42
+Title: wakey wakey Singer: nct 127 ChartPosition: 43
+Title: switch Singer: nct 127 ChartPosition: 44
+Title: summer127 Singer: nct 127 ChartPosition: 45
+Title: simon says Singer: nct 127 ChartPosition: 46
+Title: running 2 u Singer: nct 127 ChartPosition: 47
+Title: punch Singer: nct 127 ChartPosition: 48
+Title: paradise Singer: nct 127 ChartPosition: 49
+Title: once again Singer: nct 127 ChartPosition: 50
+Title: celebrity Singer: iu ChartPosition: 51
+Title: poker face Singer: lady gaga ChartPosition: 52
+Title: eight Singer: iu ChartPosition: 53
+Title: love me like you Singer: little mix ChartPosition: 54
+Title: he could be the one Singer: hannah montana ChartPosition: 55
+Title: butterflies Singer: fiji blue ChartPosition: 56
+Title: soap Singer: melanie martinez ChartPosition: 57
+Title: crybaby Singer: melanie martinez ChartPosition: 58
+Title: mr potato head Singer: melanie martinez ChartPosition: 59
+Title: dollhouse Singer: melanie martinez ChartPosition: 60
+Title: play date Singer: melanie martinez ChartPosition: 61
+Title: we can't stop Singer: miley cyrus ChartPosition: 62
+Title: hot n cold Singer: katy perry ChartPosition: 63
+Title: heartbreaker Singer: nct 127 ChartPosition: 64
+Title: mad city Singer: nct 127 ChartPosition: 65
+Title: another world Singer: nct 127 ChartPosition: 66
+Title: lemonande Singer: nct 127 ChartPosition: 67
+Title: angel Singer: nct 127 ChartPosition: 68
+Title: dreaming Singer: nct 127 ChartPosition: 69
+Title: chain Singer: nct 127 ChartPosition: 70
+Title: man up Singer: hailee steinfeld ChartPosition: 71
+Title: ko ko bop Singer: exo ChartPosition: 72
+Title: lotto Singer: exo ChartPosition: 73
+Title: boys will be boys Singer: dua lipa ChartPosition: 74
+Title: we belong Singer: dove cameron ChartPosition: 75
+Title: hold on Singer: chord overstreet ChartPosition: 76
+Title: war of hormone Singer: bts ChartPosition: 77
+Title: dimple Singer: bts ChartPosition: 78
+Title: mic drop Singer: bts ChartPosition: 79
+Title: dope Singer: bts ChartPosition: 80
+Title: second grade Singer: bts ChartPosition: 81
+Title: beautiful time Singer: nct dream ChartPosition: 82
+Title: boss Singer: nct u ChartPosition: 83
+Title: go Singer: nct dream ChartPosition: 84
+Title: seventh sense Singer: nct u ChartPosition: 85
+Title: prfct Singer: sabrina carpenter ChartPosition: 86
+Title: deja vu Singer: olivia rodrigo ChartPosition: 87
+Title: mona lisa Singer: sabrina carpenter ChartPosition: 88
+Title: sue me Singer: sabrina carpenter ChartPosition: 89
+Title: paris Singer: sabrina carpenter ChartPosition: 90
+Title: boy in luv Singer: bts ChartPosition: 91
+Title: blood sweat & tears Singer: bts ChartPosition: 92
+Title: ice cream Singer: blackpink ChartPosition: 93
+Title: hostage Singer: billie eilish ChartPosition: 94
+Title: te deseo lo mejor Singer: bad bunny ChartPosition: 95
+Title: boyfriend Singer: big time rush ChartPosition: 96
+Title: girlfriend Singer: avril lavigne ChartPosition: 97
+Title: thinking bout you Singer: ariana grande ChartPosition: 98
+Title: nasa Singer: ariana grande ChartPosition: 99
+Title: in my head Singer: ariana grande ChartPosition: 100
+Title: december Singer: ariana grande ChartPosition: 101
+After insert, size of Data base  101
+Going to Remove song Title: love story Singer: taylor swift ChartPosition: 5 at index 4 
+removed element at index 4 - Number of remove adjust steps= 96
+After remove, size of Data base  100
+*************************************
+Selection Sorting Backup By Title  = 4950
+*************************************
+Printing Backup Sorted By Title
+Title: airplane pt. 2 Singer: bts ChartPosition: 28
+Title: all night Singer: astro ChartPosition: 38
+Title: angel Singer: nct 127 ChartPosition: 67
+Title: another world Singer: nct 127 ChartPosition: 65
+Title: anpanman Singer: bts ChartPosition: 27
+Title: answer Singer: bts ChartPosition: 26
+Title: beautiful time Singer: nct dream ChartPosition: 81
+Title: blood sweat & tears Singer: bts ChartPosition: 91
+Title: boss Singer: nct u ChartPosition: 82
+Title: boy in luv Singer: bts ChartPosition: 90
+Title: boyfriend Singer: big time rush ChartPosition: 95
+Title: boys will be boys Singer: dua lipa ChartPosition: 73
+Title: breathe Singer: lauv ChartPosition: 12
+Title: butterflies Singer: fiji blue ChartPosition: 55
+Title: celebrity Singer: iu ChartPosition: 50
+Title: chain Singer: nct 127 ChartPosition: 69
+Title: crybaby Singer: melanie martinez ChartPosition: 57
+Title: december Singer: ariana grande ChartPosition: 100
+Title: deja vu Singer: olivia rodrigo ChartPosition: 86
+Title: die alone Singer: mia sayoko ChartPosition: 40
+Title: dimple Singer: bts ChartPosition: 77
+Title: dionysus Singer: bts ChartPosition: 36
+Title: dollhouse Singer: melanie martinez ChartPosition: 59
+Title: dope Singer: bts ChartPosition: 79
+Title: dreaming Singer: nct 127 ChartPosition: 68
+Title: eight Singer: iu ChartPosition: 52
+Title: fake love Singer: bts ChartPosition: 24
+Title: fifth place Singer: BTS ChartPosition: 5
+Title: firework Singer: katy perry ChartPosition: 6
+Title: ghost Singer: wolf ChartPosition: 17
+Title: girlfriend Singer: avril lavigne ChartPosition: 96
+Title: go Singer: nct dream ChartPosition: 83
+Title: go go Singer: bts ChartPosition: 21
+Title: he could be the one Singer: hannah montana ChartPosition: 54
+Title: heartbreaker Singer: nct 127 ChartPosition: 63
+Title: high waisted jeans Singer: wolf ChartPosition: 16
+Title: hoedown throwdown Singer: hannah montana ChartPosition: 20
+Title: hold on Singer: chord overstreet ChartPosition: 75
+Title: home Singer: bts ChartPosition: 32
+Title: hoops Singer: wolf ChartPosition: 15
+Title: hostage Singer: billie eilish ChartPosition: 93
+Title: hot n cold Singer: katy perry ChartPosition: 62
+Title: ice cream Singer: blackpink ChartPosition: 92
+Title: im fine Singer: bts ChartPosition: 22
+Title: in my head Singer: ariana grande ChartPosition: 99
+Title: jamais vu Singer: bts ChartPosition: 33
+Title: ko ko bop Singer: exo ChartPosition: 71
+Title: la boyz Singer: victorious ChartPosition: 18
+Title: lemonande Singer: nct 127 ChartPosition: 66
+Title: long flight Singer: taeyong ChartPosition: 2
+Title: lotto Singer: exo ChartPosition: 72
+Title: love me like you Singer: little mix ChartPosition: 53
+Title: mad city Singer: nct 127 ChartPosition: 64
+Title: magic shop Singer: bts ChartPosition: 23
+Title: magsafe Singer: wolf ChartPosition: 13
+Title: make it right Singer: bts ChartPosition: 30
+Title: man up Singer: hailee steinfeld ChartPosition: 70
+Title: mic drop Singer: bts ChartPosition: 78
+Title: mikrokosmos Singer: bts ChartPosition: 35
+Title: mona lisa Singer: sabrina carpenter ChartPosition: 87
+Title: mr brightside Singer: the killers ChartPosition: 8
+Title: mr potato head Singer: melanie martinez ChartPosition: 58
+Title: nasa Singer: ariana grande ChartPosition: 98
+Title: once again Singer: nct 127 ChartPosition: 49
+Title: one in a million Singer: astro ChartPosition: 37
+Title: paradise Singer: nct 127 ChartPosition: 48
+Title: paris Singer: sabrina carpenter ChartPosition: 89
+Title: play date Singer: melanie martinez ChartPosition: 60
+Title: poker face Singer: lady gaga ChartPosition: 51
+Title: prfct Singer: sabrina carpenter ChartPosition: 85
+Title: punch Singer: nct 127 ChartPosition: 47
+Title: roar Singer: katy perry ChartPosition: 39
+Title: rose Singer: taeyong ChartPosition: 1
+Title: running 2 u Singer: nct 127 ChartPosition: 46
+Title: second grade Singer: bts ChartPosition: 80
+Title: serendipity Singer: bts ChartPosition: 25
+Title: seventh sense Singer: nct u ChartPosition: 84
+Title: shut up and dance Singer: victorious ChartPosition: 19
+Title: simon says Singer: nct 127 ChartPosition: 45
+Title: sns Singer: astro ChartPosition: 31
+Title: so what Singer: pink ChartPosition: 34
+Title: soap Singer: melanie martinez ChartPosition: 56
+Title: styrofoam cup Singer: wolf ChartPosition: 14
+Title: sue me Singer: sabrina carpenter ChartPosition: 88
+Title: summer127 Singer: nct 127 ChartPosition: 44
+Title: sweater weather Singer: the neighborhood ChartPosition: 10
+Title: switch Singer: nct 127 ChartPosition: 43
+Title: take a hint Singer: victorious ChartPosition: 9
+Title: te deseo lo mejor Singer: bad bunny ChartPosition: 94
+Title: the truth untold Singer: bts ChartPosition: 29
+Title: thinking bout you Singer: ariana grande ChartPosition: 97
+Title: twenty two Singer: taylor swift ChartPosition: 3
+Title: villain Singer: wolf ChartPosition: 11
+Title: wakey wakey Singer: nct 127 ChartPosition: 42
+Title: war of hormone Singer: bts ChartPosition: 76
+Title: we are never getting back together Singer: taylor swift ChartPosition: 4
+Title: we belong Singer: dove cameron ChartPosition: 74
+Title: we can't stop Singer: miley cyrus ChartPosition: 61
+Title: welcome to my playground Singer: nct 127 ChartPosition: 41
+Title: welcome to new york Singer: taylor swift ChartPosition: 7
+Searching for removed song by title Title: love story Singer: taylor swift ChartPosition: 5
+NOT FOUND - Took Binary Search Steps - 7
+*************************************
+NOT FOUND - Took Linear Search Steps - 100
+*************************************
+FOUND - Took Binary Search Steps - 5
+*************************************
+FOUND last song of database - Took Binary Search Steps - 4
+*************************************
