@@ -1,0 +1,13 @@
+P,ice cream,blackpink,92
+R,rose,taeyong,1
+P,boy in luv,bts,90
+A,dope,bts,2
+M,dimple,bts,7
+R,december,bts,100
+T,second grade,bts,80
+P,war of hormone,bts,76
+A,hold on,chord overstreet,5
+A,we belong,dove cameron,7
+R,boys will be boys,dua lipa,73
+A,funny,StreetSinger,200
+P,man up,hailee steinfeld,70
