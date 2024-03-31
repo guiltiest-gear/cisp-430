@@ -1,0 +1,21 @@
+**************************************
+Printing the Inorder Traversal
+Printing Node 3
+Printing Leaf Node 4
+Printing Node 5
+Printing Leaf Node 7
+Printing Node 10
+**************************************
+Searching for Node 
+Found 4
+Not Found 1
+**************************************
+Inserting 6
+**************************************
+Printing the Inorder Traversal
+Printing Node 3
+Printing Leaf Node 4
+Printing Node 5
+Printing Leaf Node 6
+Printing Node 7
+Printing Node 10
