@@ -1,0 +1,9 @@
+In Order Traversal 
+1 2 3 4 5 6 7 8 9 10 11 14 15 
+deleting node 2
+deleting node 6
+deleting node 11
+deleting node 15
+
+The Tree after Deletions is:  
+1 3 4 5 7 8 9 10 14 
